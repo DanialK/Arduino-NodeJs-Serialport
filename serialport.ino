@@ -26,9 +26,8 @@ void loop() {
   }else{
     Serial.write(0);
   }
-  
   // delay in between reads for stability
-  delay(1);        
+  delay(100);        
 }
 
 
