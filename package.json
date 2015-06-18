@@ -1,5 +1,5 @@
 {
-  "name": "Arduino Nodejs Serial Port Communication",
+  "name": "Arduino-Nodejs-Serial-Port-Communication",
   "version": "0.0.0",
   "description": "Connecting Arduino to Nodejs using serial ports",
   "main": "app.js",
